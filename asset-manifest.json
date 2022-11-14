@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "https://siarhei-prakapenka.github.io/csb-0h4ddk/static/css/main.38192d03.chunk.css",
+    "main.js": "https://siarhei-prakapenka.github.io/csb-0h4ddk/static/js/main.77655e19.chunk.js",
+    "main.js.map": "https://siarhei-prakapenka.github.io/csb-0h4ddk/static/js/main.77655e19.chunk.js.map",
+    "runtime~main.js": "https://siarhei-prakapenka.github.io/csb-0h4ddk/static/js/runtime~main.0ba8483d.js",
+    "runtime~main.js.map": "https://siarhei-prakapenka.github.io/csb-0h4ddk/static/js/runtime~main.0ba8483d.js.map",
+    "static/css/2.dfd58508.chunk.css": "https://siarhei-prakapenka.github.io/csb-0h4ddk/static/css/2.dfd58508.chunk.css",
+    "static/js/2.d50c36be.chunk.js": "https://siarhei-prakapenka.github.io/csb-0h4ddk/static/js/2.d50c36be.chunk.js",
+    "static/js/2.d50c36be.chunk.js.map": "https://siarhei-prakapenka.github.io/csb-0h4ddk/static/js/2.d50c36be.chunk.js.map",
+    "index.html": "https://siarhei-prakapenka.github.io/csb-0h4ddk/index.html",
+    "precache-manifest.dc3d6645e33ff9febb75f6c680233dc7.js": "https://siarhei-prakapenka.github.io/csb-0h4ddk/precache-manifest.dc3d6645e33ff9febb75f6c680233dc7.js",
+    "service-worker.js": "https://siarhei-prakapenka.github.io/csb-0h4ddk/service-worker.js",
+    "static/css/2.dfd58508.chunk.css.map": "https://siarhei-prakapenka.github.io/csb-0h4ddk/static/css/2.dfd58508.chunk.css.map",
+    "static/css/main.38192d03.chunk.css.map": "https://siarhei-prakapenka.github.io/csb-0h4ddk/static/css/main.38192d03.chunk.css.map",
+    "static/media/burger.png": "https://siarhei-prakapenka.github.io/csb-0h4ddk/static/media/burger.3f2a4dae.png",
+    "static/media/floor.png": "https://siarhei-prakapenka.github.io/csb-0h4ddk/static/media/floor.f5b6ed11.png",
+    "static/media/ground.png": "https://siarhei-prakapenka.github.io/csb-0h4ddk/static/media/ground.65fd5b77.png",
+    "static/media/houses.png": "https://siarhei-prakapenka.github.io/csb-0h4ddk/static/media/houses.fc41d8c4.png",
+    "static/media/kitchen.png": "https://siarhei-prakapenka.github.io/csb-0h4ddk/static/media/kitchen.746323a4.png",
+    "static/media/picture.png": "https://siarhei-prakapenka.github.io/csb-0h4ddk/static/media/picture.3f7c63c6.png",
+    "static/media/plate.png": "https://siarhei-prakapenka.github.io/csb-0h4ddk/static/media/plate.8af72113.png",
+    "static/media/room.png": "https://siarhei-prakapenka.github.io/csb-0h4ddk/static/media/room.cda649da.png",
+    "static/media/signboard.png": "https://siarhei-prakapenka.github.io/csb-0h4ddk/static/media/signboard.08e91c43.png",
+    "static/media/table.png": "https://siarhei-prakapenka.github.io/csb-0h4ddk/static/media/table.b17e6031.png",
+    "static/media/winner.png": "https://siarhei-prakapenka.github.io/csb-0h4ddk/static/media/winner.aa4e1286.png",
+    "static/media/wooden-floor.png": "https://siarhei-prakapenka.github.io/csb-0h4ddk/static/media/wooden-floor.6a9cdb6b.png"
+  }
+}
